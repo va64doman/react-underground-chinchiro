@@ -1,0 +1,12 @@
+.react-slideshow-container{
+  white-space: nowrap;
+}
+
+#playerTurnTxt{
+  font-weight: bold;
+}
+
+#throwbar{
+	width: 50%;
+	margin: 0 auto;
+}

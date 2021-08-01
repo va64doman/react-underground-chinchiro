@@ -1,0 +1,20 @@
+[
+	{
+        "id": 1,
+        "username": "Player 1",
+        "bet": 100,
+        "hasBet": false,
+        "rank": 0,
+        "isDealer": false,
+        "cash": 10000
+    },
+	{
+        "id": 2,
+        "username": "Player 2",
+        "bet": 100,
+        "hasBet": false,
+        "rank": 0,
+        "isDealer": false,
+        "cash": 10000
+    }
+]
